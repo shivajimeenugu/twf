@@ -85,7 +85,7 @@ By clicking on the Create Post button user can provide the in the dialogue box
 This will result in sending the telegram request to all the volunteers. So the volunteer can provide immediate service to the needy people
 
 ![alt text](https://github.com/shivajimeenugu/twf/blob/main/icons/s6.png?raw=true)
-![alt text](https://github.com/shivajimeenugu/twf/blob/main/icons/s7.png?raw=true)
+![alt text](https://github.com/shivajimeenugu/twf/blob/main/icons/s7.jpg?raw=true)
 # The overall Process Flow Chart:
 
 #
