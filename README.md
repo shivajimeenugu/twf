@@ -29,9 +29,7 @@ For frontend design,
 - Bootstrap frame work was added to make responsive design can be used in both desktop and smart phones,
 - Javascript plays a key role to add animation to this application
 
-![](RackMultipart20210523-4-1szgbqi_html_557b44e2e6096b6e.jpg)
-
-![](RackMultipart20210523-4-1szgbqi_html_6bf60c1d6f4a9ac8.png)
+![alt text](https://github.com/shivajimeenugu/twf/blob/main/icons/flogo.PNG?raw=true)
 
 For Backend,
 
@@ -45,7 +43,7 @@ Server Side:
 - Mysql is an easy to use and can store very large amount of services data.
 - Php Was used to perform the backend functionalities , to handle auth login , registration, retrieving data from data base, managing user data, working along with Mysql Data base.
 
-![alt text](https://github.com/shivajimeenugu/twf/blob/master/image.jpg?raw=true)
+![alt text](https://github.com/shivajimeenugu/twf/blob/main/icons/mp.PNG?raw=true)
 
 # Services Available
 :
@@ -61,46 +59,39 @@ Server Side:
 - Ambulance service
 - Transportation Services
 
-![](RackMultipart20210523-4-1szgbqi_html_7becaa8ddea1bf7e.png)
+![alt text](https://github.com/shivajimeenugu/twf/blob/main/icons/s1.png?raw=true)
 
 The DataBase Design:
 
 Mysql was used as Data Base to store data , the overall design of data base is simplified in the below diagram, to make consistency, data redundancy, this data base approach was used by decomposing various data base tables and interconnected using foreign keys.
 
-![](RackMultipart20210523-4-1szgbqi_html_7f78986f7103fe3b.png)
+![alt text](https://github.com/shivajimeenugu/twf/blob/main/icons/s2.PNG?raw=true)
 
 User Registration:
 
 The volunteers who are willing to provide help and medical services can register into our platform. The registration page allows them to Mention all the services which they are providing. Separate Dashboard has been provided for the doctors who register as volunteer to help. It is an easy to use and register immediately into this platform to provide services during this Covid-19 pandemic situation. The main theme is to provide very easy to use interface for any person to be able to use this application easily.
 
-![](RackMultipart20210523-4-1szgbqi_html_93c7be4193ccecd5.png)
-
-With the list to select the services a volunteer can provide.
-
-![](RackMultipart20210523-4-1szgbqi_html_72d6e10799875101.png)
-
-![](RackMultipart20210523-4-1szgbqi_html_1ee708fc47bb1b9f.png)
-
+![alt text](https://github.com/shivajimeenugu/twf/blob/main/icons/s3.png?raw=true)
 Immediate need of Help:
 
 Sometimes there can be situation&#39;s which requires immediate help for the issues, since many poor people are running out of basic need during the lockdown imposed by the government. Many poor families are suffering from hunger, running out of water not able to buy medicines. The team of TWF( Together We Fight ) applications provides an unique solution similar to social media. We have came up with an Get Help Service tab. This tab provides any user from any place can ask for help, using the service the user not even required to login or sign up, he/she can easily access directly and post their request to all the volunteers who are willing to help.
 
-![](RackMultipart20210523-4-1szgbqi_html_47daa38c70141368.png) This post request will let the user request to all the volunteers and help providers getting notified by an instant telegram notification message with all the details of the needy family, so instantly the volunteers can contact the suffering family and can provide the helping hand. This is a crucial service which let any remote user to come forward and ask for the help.
+![alt text](https://github.com/shivajimeenugu/twf/blob/main/icons/s4.PNG?raw=true) This post request will let the user request to all the volunteers and help providers getting notified by an instant telegram notification message with all the details of the needy family, so instantly the volunteers can contact the suffering family and can provide the helping hand. This is a crucial service which let any remote user to come forward and ask for the help.
 
 By clicking on the Create Post button user can provide the in the dialogue box
 
-![](RackMultipart20210523-4-1szgbqi_html_d5fce7272257b82b.png)
+![alt text](https://github.com/shivajimeenugu/twf/blob/main/icons/s5.png?raw=true)
 
 This will result in sending the telegram request to all the volunteers. So the volunteer can provide immediate service to the needy people
 
-![](RackMultipart20210523-4-1szgbqi_html_6f9fce0a69cdd3fa.jpg)
-
+![alt text](https://github.com/shivajimeenugu/twf/blob/main/icons/s6.png?raw=true)
+![alt text](https://github.com/shivajimeenugu/twf/blob/main/icons/s7.png?raw=true)
 # The overall Process Flow Chart:
 
 #
 Since our goal was easy to use web application for every user to provide instant services and reach out to the needy people. This process flow chart will help us to understand the over all function of the application with all the functions and structure in details.
 
-![](RackMultipart20210523-4-1szgbqi_html_bb17fc2a942ee0db.png) **Together We Fight**
+![alt text](https://github.com/shivajimeenugu/twf/blob/main/icons/s8.png?raw=true) **Together We Fight**
 
 # **Software To run this Application:**
 
@@ -108,4 +99,4 @@ Since our goal was easy to use web application for every user to provide instant
 - Hosting of the application was made easy with the xampp server to run and also manage Mysql database
 - Xampp provides fully functional hosting environment for php based web applications.
 
-![](RackMultipart20210523-4-1szgbqi_html_ee04592f38499fb7.png)
+![alt text](https://github.com/shivajimeenugu/twf/blob/main/icons/s9.png?raw=true)
